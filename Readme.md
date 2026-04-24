@@ -64,8 +64,8 @@ src/
 └── logger.py
 
 sql/
-├── create_posts_table.sql
-└── create_metadata_table.sql
+├── create_posts_table.txt
+└── create_metadata_table.txt
 
 logs/
 └── pipeline.log
